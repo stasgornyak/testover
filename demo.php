@@ -2,5 +2,5 @@
 
 function demo()
 {
-
+    echo 'OK';
 }
